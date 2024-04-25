@@ -27,7 +27,8 @@ function ResultSummaryComponentChallengeByFronEndMentor() {
               </div>
               <div className="d-flex mb-3 justify-content-between reaction">
                 <div className="bold">
-                  <img src="/src/assets/images/icon-reaction.svg"></img>Reaction
+                  <img src="./src/assets/images/icon-reaction.svg"></img>
+                  Reaction
                 </div>
                 <div className="rating">
                   <span className="bold">80</span>
@@ -36,7 +37,7 @@ function ResultSummaryComponentChallengeByFronEndMentor() {
               </div>
               <div className="d-flex mb-3 justify-content-between memory">
                 <div className="bold">
-                  <img src="/src/assets/images/icon-memory.svg"></img>Memory
+                  <img src="./src/assets/images/icon-memory.svg"></img>Memory
                 </div>
                 <div className="rating">
                   <span className="bold">80</span>
@@ -45,7 +46,7 @@ function ResultSummaryComponentChallengeByFronEndMentor() {
               </div>
               <div className="d-flex mb-3 justify-content-between verbal">
                 <div className="bold">
-                  <img src="/src/assets/images/icon-verbal.svg"></img>Verbal
+                  <img src="./src/assets/images/icon-verbal.svg"></img>Verbal
                 </div>
                 <div className="rating">
                   <span className="bold">80</span>
@@ -54,7 +55,7 @@ function ResultSummaryComponentChallengeByFronEndMentor() {
               </div>
               <div className="d-flex mb-3 justify-content-between visual">
                 <div className="bold">
-                  <img src="/src/assets/images/icon-visual.svg"></img>Visual
+                  <img src="./src/assets/images/icon-visual.svg"></img>Visual
                 </div>
                 <div className="rating">
                   <span className="bold">80</span>
